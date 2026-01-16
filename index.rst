@@ -163,7 +163,7 @@ While it is possible to construct the search which will return refereed papers, 
    :header-rows: 1
    :widths: 20 20 15 45
 
-   * - Bibcode and Link to SciX query (only refereed papers)
+   * - Bibcode and Link to SciX query
      - Title
      - Type
      - SciX Search Query
