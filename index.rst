@@ -103,9 +103,9 @@ The process for adding a paper to the Scientific Publications Library is as foll
 
 1. Perform the relevant citation search from links provided in Appendix A.
 2. Review the papers and decide which ones should be included in the library.
-3. Select paper(s) by checking the box next to the paper, then click Bulk Actions (Figure 1).
-4. From the Bulk Actions dropdown menu, select Add to Library (Figure 2).
-5. Click within the Select Library bar, then choose “Vera C. Rubin Observatory Scientific Publications” (Figure 3).
+3. Select paper(s) by checking the box next to the paper, then click ``Bulk Actions`` (Figure 1).
+4. From the ``Bulk Actions`` dropdown menu, select ``Add to Library`` (Figure 2).
+5. Click within the ``Select Library`` bar, then choose “Vera C. Rubin Observatory Scientific Publications” (Figure 3).
 6. Click “Submit” to complete the process (Figure 4).
 
 
@@ -190,37 +190,37 @@ While it is possible to construct the search which will return refereed papers, 
      - Type
      - SciX Search Query
 
-   * - 2025rubn.rept...31N
+   * - `2025rubn.rept...31N <https://scixplorer.org/search?n=10&p=1&q=citations(bibcode%3A2025rubn.rept...31N)&sort=score+desc&sort=date+desc>`_
      - RTN-095, The Vera C. Rubin Observatory Data Preview 1
      - Technical note
      - citations(bibcode:2025rubn.rept...31N)
 
-   * - 2025lsst.data....3N
+   * - `2025lsst.data....3N <https://scixplorer.org/search?n=10&p=1&q=citations(bibcode%3A2025lsst.data....3N)&sort=score+desc&sort=date+desc>`_
      - Legacy Survey of Space and Time (LSST) Data Preview 1
      - Dataset
      - citations(bibcode:2025lsst.data....3N)
 
-   * - Rubin Observatory AND year:2026 – Science Explorer Search
+   * - `Rubin Observatory AND year:2026 <https://scixplorer.org/search?d=general&n=10&p=1&q=Rubin+Observatory+AND+year%3A2026&sort=score+desc&sort=date+desc>`_
      - Rubin Observatory and Year
      - Phrase search and year
      - Rubin Observatory AND year:2026
 
-   * - Rubin Data Preview 1 AND year:2026 – Science Explorer Search
+   * - `Rubin Data Preview 1 AND year:2026 <https://scixplorer.org/search?d=general&n=10&p=1&q=Rubin+Data+Preview+1+AND+year%3A2026&sort=score+desc&sort=date+desc>`_
      - Rubin Data Preview 1
      - Phrase search and year
      - Rubin Data Preview 1 AND year:2026
 
-   * - LSST Data Preview 1 AND year:2026 – Science Explorer Search
+   * - `LSST Data Preview 1 AND year:2026 <https://scixplorer.org/search?d=general&n=10&p=1&q=LSST+Data+Preview+1+AND+year%3A2026&sort=score+desc&sort=date+desc>`_
      - LSST Data Preview 1
      - Phrase and year search
      - LSST Data Preview 1 AND year:2026
 
-   * - LSST Data Preview 0 AND year:2026 – Science Explorer Search
+   * - `LSST Data Preview 0 AND year:2026 <https://scixplorer.org/search?d=general&n=10&p=1&q=LSST+Data+Preview+0+AND+year%3A2026&sort=score+desc&sort=date+desc>`_
      - LSST Data Preview 0
      - Phrase and year search
      - LSST Data Preview 0 AND year:2026
 
-   * - Rubin Data Preview 0 AND year:2026 – Science Explorer Search
+   * - `Rubin Data Preview 0 AND year:2026 <https://scixplorer.org/search?d=general&n=10&p=1&q=Rubin+Data+Preview+0+AND+year%3A2026&sort=score+desc&sort=date+desc>`_
      - Rubin Data Preview 0
      - Phrase and year search
      - Rubin Data Preview 0 AND year:2026
