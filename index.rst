@@ -158,50 +158,6 @@ Additional searches will be included in this list as new technical notes and dat
 **NOTE - After performing the search, click on the refereed tab on the left hand side to review refereed papers.
 While it is possible to construct the search which will return refereed papers, it was determined that the extra step of selecting only refereed papers provided more flexibility.**
 
-.. table:: SciX search queries
-
-  +----------------------+----------------+---------------+--------------------------------------+
-  |Bibcode and Link      |Title           |Type           |SciX Search Query                     |
-  |to SciX query (only   |                |               |                                      |
-  |refereed papers)      |                |               |                                      |
-  +----------------------+----------------+---------------+--------------------------------------+
-  |2025rubn.rept...31N   |RTN-095, The    |Technical note |citations(bibcode:2025rubn.rept...31N |
-  |                      |Vera C. Rubin   |               |                                      |
-  |                      |Observatory     |               |                                      |
-  |                      |Data Preview 1  |               |                                      |
-  +----------------------+----------------+---------------+--------------------------------------+
-  |2025lsst.data....3N   |Legacy Survey   |Dataset        |citations(bibcode:2025lsst.data....3N |
-  |                      |of Space and    |               |                                      |
-  |                      |Time (LSST)     |               |                                      |
-  |                      |Data Preview 1  |               |                                      |
-  +----------------------+----------------+---------------+--------------------------------------+
-  |Rubin Observatory     |Rubin           |Phrase search  |Rubin Observatory AND year:2026       |
-  |AND year:2026 -       |Observatory     |and year       |                                      |
-  |Science Explorer      |and Year        |               |                                      |
-  |Search                |                |               |                                      |
-  +----------------------+----------------+---------------+--------------------------------------+
-  |Rubin Data Preview 1  |Rubin Data      |Phrase search  |Rubin Data Preview 1 AND year:2026    |
-  |AND year:2026 -       |Preview 1       |and year       |                                      |
-  |Science Explorer      |                |               |                                      |
-  |Search                |                |               |                                      |
-  +----------------------+----------------+---------------+--------------------------------------+
-  |LSST Data Preview 1   |LSST Data       |Phrase and     |LSST Data Preview 1 AND year:2026     |
-  |AND year:2026 -       |Preview 1       |year search    |                                      |
-  |Science Explorer      |                |               |                                      |
-  |Search                |                |               |                                      |
-  +----------------------+----------------+---------------+--------------------------------------+
-  |LSST Data Preview 0   |LSST Data       |Phrase and     |LSST Data Preview 0 AND year:2026     |
-  |LSST Data Preview 0   |LSST Data       |year search    |                                      |
-  |AND year:2026 -       |Preview 0       |               |                                      |
-  |Science Explorer      |                |               |                                      |
-  |Search                |                |               |                                      |
-  +----------------------+----------------+---------------+--------------------------------------+
-  |Rubin Data Preview 0  |Rubin Data      |Phrase and     |Rubin Data Preview 0 AND year:2026    |
-  |AND year:2026 -       |Preview 0       |year search    |                                      |
-  |Science Explorer      |                |               |                                      |
-  |Search                |                |               |                                      |
-  +----------------------+----------------+---------------+--------------------------------------+
-
 
 .. list-table:: SciX search queries
    :header-rows: 1
