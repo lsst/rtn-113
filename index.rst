@@ -99,24 +99,46 @@ We exclude the papers that have the following parameters:
 Adding a paper to the Vera C. Rubin Scientific Publications library
 -------------------------------------------------------------------
 
-
 The process for adding a paper to the Scientific Publications Library is as follows:
+
 1. Perform the relevant citation search from links provided in Appendix A.
 2. Review the papers and decide which ones should be included in the library.
 3. Select paper(s) by checking the box next to the paper, then click Bulk Actions (Figure 1).
 4. From the Bulk Actions dropdown menu, select Add to Library (Figure 2).
 5. Click within the Select Library bar, then choose “Vera C. Rubin Observatory Scientific Publications” (Figure 3).
 6. Click “Submit” to complete the process (Figure 4).
- 
-Figure 1 - Select paper(s) from search results
 
 
-Figure 2 - From Bulk Actions dropdown menu, select “Add to Library”
+.. figure:: .github/_static/fig1_select_papers.png
+   :alt: Screenshot of SciX interface which allows users to select papers to add to the library. 
+   :width: 500px
+   :align: center
 
-Figure 3 - Select “Vera C. Rubin Observatory Scientific Publications” library
+   Figure 1 - Select paper(s) from search results
 
 
-Figure 4 - Click “Submit” to complete the process
+.. figure:: .github/_static/fig2_add_to_library.png
+   :alt: From the bulk actions dropdown menu, select "Add to Library" 
+   :width: 500px
+   :align: center
+
+   Figure 2 - From Bulk Actions dropdown menu, select “Add to Library”
+
+
+.. figure:: .github/_static/fig3_select_library.png
+   :alt: Screenshot of dropdown menu where user will select the appropriate library. 
+   :width: 500px
+   :align: center
+
+   Figure 3 - Select “Vera C. Rubin Observatory Scientific Publications” library
+
+
+.. figure:: .github/_static/fig4_click_submit.png
+   :alt: Screenshot showing the location of the submit button. 
+   :width: 500px
+   :align: center
+
+   Figure 4 - Click “Submit” to complete the process
 
 
 
