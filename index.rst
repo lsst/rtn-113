@@ -203,6 +203,49 @@ While it is possible to construct the search which will return refereed papers, 
   +----------------------+----------------+---------------+--------------------------------------+
 
 
+.. list-table:: SciX search queries
+   :header-rows: 1
+   :widths: 20 20 15 45
+
+   * - Bibcode and Link to SciX query (only refereed papers)
+     - Title
+     - Type
+     - SciX Search Query
+
+   * - 2025rubn.rept...31N
+     - RTN-095, The Vera C. Rubin Observatory Data Preview 1
+     - Technical note
+     - citations(bibcode:2025rubn.rept...31N)
+
+   * - 2025lsst.data....3N
+     - Legacy Survey of Space and Time (LSST) Data Preview 1
+     - Dataset
+     - citations(bibcode:2025lsst.data....3N)
+
+   * - Rubin Observatory AND year:2026 – Science Explorer Search
+     - Rubin Observatory and Year
+     - Phrase search and year
+     - Rubin Observatory AND year:2026
+
+   * - Rubin Data Preview 1 AND year:2026 – Science Explorer Search
+     - Rubin Data Preview 1
+     - Phrase search and year
+     - Rubin Data Preview 1 AND year:2026
+
+   * - LSST Data Preview 1 AND year:2026 – Science Explorer Search
+     - LSST Data Preview 1
+     - Phrase and year search
+     - LSST Data Preview 1 AND year:2026
+
+   * - LSST Data Preview 0 AND year:2026 – Science Explorer Search
+     - LSST Data Preview 0
+     - Phrase and year search
+     - LSST Data Preview 0 AND year:2026
+
+   * - Rubin Data Preview 0 AND year:2026 – Science Explorer Search
+     - Rubin Data Preview 0
+     - Phrase and year search
+     - Rubin Data Preview 0 AND year:2026
 
 
 
