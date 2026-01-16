@@ -215,15 +215,17 @@ While it is possible to construct the search which will return refereed papers, 
      - Phrase and year search
      - LSST Data Preview 1 AND year:2026
 
+   * - `Rubin Data Preview 0 AND year:2026 <https://scixplorer.org/search?d=general&n=10&p=1&q=Rubin+Data+Preview+0+AND+year%3A2026&sort=score+desc&sort=date+desc>`_
+     - Rubin Data Preview 0
+     - Phrase and year search
+     - Rubin Data Preview 0 AND year:2026
+
    * - `LSST Data Preview 0 AND year:2026 <https://scixplorer.org/search?d=general&n=10&p=1&q=LSST+Data+Preview+0+AND+year%3A2026&sort=score+desc&sort=date+desc>`_
      - LSST Data Preview 0
      - Phrase and year search
      - LSST Data Preview 0 AND year:2026
 
-   * - `Rubin Data Preview 0 AND year:2026 <https://scixplorer.org/search?d=general&n=10&p=1&q=Rubin+Data+Preview+0+AND+year%3A2026&sort=score+desc&sort=date+desc>`_
-     - Rubin Data Preview 0
-     - Phrase and year search
-     - Rubin Data Preview 0 AND year:2026
+
 
 
 
