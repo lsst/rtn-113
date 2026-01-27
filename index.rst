@@ -114,7 +114,7 @@ The process for adding a paper to the Scientific Publications Library is as foll
    :width: 500px
    :align: center
 
-   Figure 1 - Select paper(s) from search results
+   Select paper(s) from search results
 
 
 .. figure:: .github/_static/fig2_add_to_library.png
@@ -122,7 +122,7 @@ The process for adding a paper to the Scientific Publications Library is as foll
    :width: 500px
    :align: center
 
-   Figure 2 - From Bulk Actions dropdown menu, select “Add to Library”
+   From Bulk Actions dropdown menu, select “Add to Library”
 
 
 .. figure:: .github/_static/fig3_select_library.png
@@ -130,7 +130,7 @@ The process for adding a paper to the Scientific Publications Library is as foll
    :width: 500px
    :align: center
 
-   Figure 3 - Select “Vera C. Rubin Observatory Scientific Publications” library
+   Select “Vera C. Rubin Observatory Scientific Publications” library
 
 
 .. figure:: .github/_static/fig4_click_submit.png
@@ -138,7 +138,7 @@ The process for adding a paper to the Scientific Publications Library is as foll
    :width: 500px
    :align: center
 
-   Figure 4 - Click “Submit” to complete the process
+   Click “Submit” to complete the process
 
 
 
