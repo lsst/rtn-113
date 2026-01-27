@@ -32,14 +32,14 @@ Each serves a unique purpose in documenting how Rubin’s resources are used.
 The Scientific Publications Library includes refereed research that directly references Rubin Observatory data products, select technical documentation,
 and non-refereed papers like arxiv preprints and research notices. As Rubin’s data offerings expand, the search criteria for this library will evolve. 
 
-- Public Library name: `Vera C. Rubin Observatory Scientific Publications <https://scixplorer.org/public-libraries/QQ9rNp-QSZqea5vG6zESUQ>`_
-- search query for library: docs(library/QQ9rNp-QSZqea5vG6zESUQ)
+- Public library name: `Vera C. Rubin Observatory Scientific Publications <https://scixplorer.org/public-libraries/QQ9rNp-QSZqea5vG6zESUQ>`_
+- Search query for library: docs(library/QQ9rNp-QSZqea5vG6zESUQ)
 
 The Technical Publications Library focuses on Rubin’s internal and external technical outputs,  such as software documentation, system design papers, and engineering reports.
 These materials are essential for understanding the infrastructure that supports Rubin’s scientific mission.
 
-- Public Library name: `Vera C. Rubin Observatory Technical Publications <https://scixplorer.org/public-libraries/oue8xvvpTjqeYPvR5YW6VA>`_
-- search query for library: docs(library/oue8xvvpTjqeYPvR5YW6VA)
+- Public library name: `Vera C. Rubin Observatory Technical Publications <https://scixplorer.org/public-libraries/oue8xvvpTjqeYPvR5YW6VA>`_
+- Search query for library: docs(library/oue8xvvpTjqeYPvR5YW6VA)
 
 
 ======================================
