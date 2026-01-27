@@ -77,10 +77,10 @@ A paper is eligible for inclusion if it meets the following conditions:
 
 - It presents a scientific analysis based on Rubin Observatory data services or data products, such as data releases (e.g., DP0, DP1, DP2, DR1).
 - The paper uses the data products to base some or all of its scientific conclusions.
-- It is published in a refereed journal
-- It is Rubin Observatory technical documentation, arxiv preprints and research notices deemed appropriate for the library
-- It is a non-refereed Rubin paper deemed appropriate for the library (e.g., SITCOMTN, RTN, or other paper describing the scientific contributions of Rubin)
-- It is a paper deemed appropriate for the library by the Publication Board
+- It is published in a refereed journal.
+- It is Rubin Observatory technical documentation, arxiv preprints and research notices deemed appropriate for the library.
+- It is a non-refereed Rubin paper deemed appropriate for the library (e.g., SITCOMTN, RTN, or other paper describing the scientific contributions of Rubin).
+- It is a paper deemed appropriate for the library by the Publication Board.
 
 
 Exclusion criteria
@@ -101,8 +101,8 @@ Adding a paper to the Vera C. Rubin Scientific Publications library
 
 The process for adding a paper to the Scientific Publications Library is as follows:
 
-1. Perform the relevant citation search from links provided in Appendix A.
-2. Review the papers and decide which ones should be included in the library.
+1. Perform the relevant search from links provided in Appendix A.
+2. Review the papers and decide on papers to included in the library.
 3. Select paper(s) by checking the box next to the paper, then click ``Bulk Actions`` (Figure 1).
 4. From the ``Bulk Actions`` dropdown menu, select ``Add to Library`` (Figure 2).
 5. Click within the ``Select Library`` bar, then choose “Vera C. Rubin Observatory Scientific Publications” (Figure 3).
@@ -162,7 +162,7 @@ Future enhancements to this process and CST annual report metrics may include ca
 Technical library maintenance process
 =====================================
 
-TBD - Tim Jenness
+TBD
 
 
 
@@ -177,7 +177,7 @@ Each entry includes its SciX bibcode and a sample search query to help identify 
 
 Additional searches will be included in this list as new technical notes and datasets become available. 
 
-**NOTE - After performing the search, click on the refereed tab on the left hand side to review refereed papers.
+**NOTE - After performing the search, click the refereed checkbox on the left hand side to review refereed papers.
 While it is possible to construct the search which will return refereed papers, it was determined that the extra step of selecting only refereed papers provided more flexibility.**
 
 
@@ -227,13 +227,11 @@ While it is possible to construct the search which will return refereed papers, 
 
 
 
-
-
 ===============================
 Appendix B Creating new queries
 ===============================
 
-As Rubin Observatory releases new data or technical notes, additional search criteria may be needed.Construct effective queries using SciX Help or the following basic guidelines:
+As Rubin Observatory releases new data or technical notes, additional search criteria may be needed. Construct effective queries using SciX Help or the following basic guidelines:
 
 - To find bibcodes:
 
