@@ -154,7 +154,7 @@ To compile the annual CST reporting metrics:
 - Click on “view results in search filter”
 - filter the SciX public library for the appropriate months (within the fiscal year: 10/1/XX - 9/30/XX)
 - Select for refereed papers by clicking on the refereed button on the left hand side
-- note the number of search results and report into the appropriate annual report
+- Note the number of search results and report into the appropriate annual report
 
 Future enhancements to this process and CST annual report metrics may include categorization of publications by type and monitoring the pace of additions over time.
 
