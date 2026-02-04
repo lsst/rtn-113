@@ -200,10 +200,10 @@ While it is possible to construct the search which will return refereed papers, 
      - Dataset
      - citations(bibcode:2025lsst.data....3N)
 
-   * - `Rubin Observatory AND year:2026 <https://scixplorer.org/search?d=general&n=10&p=1&q=Rubin+Observatory+AND+year%3A2026&sort=score+desc&sort=date+desc>`_
-     - Rubin Observatory and Year
-     - Phrase search and year
-     - Rubin Observatory AND year:2026
+   * - `Rubin Observatory AND pubdate:["YYYY-MM-DD" TO "YYYY-MM-DD"] <https://scixplorer.org/search?d=general&n=10&p=1&q=Rubin+Observatory+AND+pubdate%3A%5B%222025-12-31%22+TO+%222026-01-31%22%5D&sort=date+desc>`_
+     - Rubin Observatory and Month (note: alter dates as appropriate)
+     - Phrase search and Month
+     - Rubin Observatory AND pubdate:["2025-12-31" TO "2026-01-31"]
 
    * - `Rubin Data Preview 1 AND year:2026 <https://scixplorer.org/search?d=general&n=10&p=1&q=Rubin+Data+Preview+1+AND+year%3A2026&sort=score+desc&sort=date+desc>`_
      - Rubin Data Preview 1
