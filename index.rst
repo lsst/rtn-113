@@ -35,7 +35,7 @@ and non-refereed papers like arxiv preprints and research notices. As Rubin’s 
 - Public library name: `Vera C. Rubin Observatory Scientific Publications <https://scixplorer.org/public-libraries/QQ9rNp-QSZqea5vG6zESUQ>`_
 - Search query for library: docs(library/QQ9rNp-QSZqea5vG6zESUQ)
 
-The Technical Publications Library focuses on Rubin’s internal and external technical outputs,  such as software documentation, system design papers, and engineering reports.
+The Technical Publications Library focuses on Rubin’s internal and external technical outputs, such as software documentation, system design papers, and engineering reports.
 These materials are essential for understanding the infrastructure that supports Rubin’s scientific mission.
 
 - Public library name: `Vera C. Rubin Observatory Technical Publications <https://scixplorer.org/public-libraries/oue8xvvpTjqeYPvR5YW6VA>`_
@@ -50,7 +50,7 @@ To capture as many relevant papers as possible, the CST designs search queries b
 Each bibcode uniquely identifies a Rubin publication or dataset within SciX. Although search results may include a wide range of papers,
 only those that meet the defined inclusion criteria are added to the library.
 By reviewing bibcode-based search results on a regular basis, the CST ensures that the library remains accurate and up to date with the appropriate scientific literature.
-In addition to bibcode‑based queries, the CST also conducts key word and time‑frame searches to ensure that any relevant papers are identified and added to the scientific library.
+In addition to bibcode-based queries, the CST also conducts key word and time‑frame searches to ensure that any relevant papers are identified and added to the scientific library.
 
 
 Perform search
@@ -238,14 +238,14 @@ As Rubin Observatory releases new data or technical notes, additional search cri
   - Review DOI for data releases.  Search for the data release DOI in SciX and the bibcode is listed underneath: for example, in the search box, use  **10.71929/rubin/2570308**
   - Review DOI or bibcode for technical notes or publications. Search for and find bibcodes technical papers: for example, in the search box, use **(title:”RTN-095”)**
 
-- To refine search for a specific timeframe:
+- To refine search for a specific time-frame:
 
   - For annual reviews: use **year:2025**
   - For rolling updates: use **year:2025 or year:2024**
   - For more specific date criteria: use **date:[2024-01 to 2025-12]**
 
 - To construct a search based on a bibcode: use **citations(bibcode: XXX)**
-- To use a bibcode with specific timeframe: use **citations(bibcode:XXX) AND year:2025**
+- To use a bibcode with specific time-frame: use **citations(bibcode:XXX) AND year:2025**
 - To search for multiple bibcodes: use **citations(bibcode:XXX OR bibcode:YYY)**
-- To search with keywords and a timeframe: use **(title:”XXX” OR abstract:”YYY”) AND year:2025**
+- To search with keywords and a time-frame: use **(title:”XXX” OR abstract:”YYY”) AND year:2025**
 
