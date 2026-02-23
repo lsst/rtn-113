@@ -4,7 +4,7 @@ Rubin Curated SciX Libraries
 
 .. abstract::
 
-   Technical note describing the process for maintaining the Rubin Observatory technical and scientific libraries.
+   Technical note describing the process for maintaining the Rubin Observatory technical and scientific libraries in the Science Explorer (SciX) digital library portal.
 
 ========
 Overview
@@ -12,9 +12,9 @@ Overview
 
 Tracking scientific publications is essential for demonstrating the scholarly impact of Rubin Observatory’s data products, analysis tools, and
 technical contributions to the astronomical community. The Community Science Team (CST) monitors research that uses Rubin Observatory data or
-tools and curates public libraries of relevant publications on the Science Explorer (SciX) digital library portal for researchers in astronomy.
+tools and curates public libraries of relevant publications on the `Science Explorer (SciX) digital library portal <https://scixplorer.org/>`_ for researchers in astronomy.
 The number of scientific and technical papers published with Rubin data is an essential metric tracked and reported to Rubin and agency management.
-These curated libraries are linked from the Rubin Observatory For Scientists website.
+These curated libraries are linked from the `Rubin Observatory For Scientists website <https://rubinobservatory.org/for-scientists>`_.
 
 This document outlines the process used for maintaining these libraries. It explains the structure and purpose of each library,
 the search strategies employed to identify relevant publications, the workflow for reviewing and adding papers, and the criteria for inclusion or exclusion.
@@ -29,13 +29,13 @@ Rubin SciX libraries
 Rubin maintains two distinct public libraries within SciX: one for scientific publications and one for technical publications. 
 Each serves a unique purpose in documenting how Rubin’s resources are used.
 
-The Scientific Publications Library includes refereed research that directly references Rubin Observatory data products, select technical documentation,
-and non-refereed papers like arxiv preprints and research notices. As Rubin’s data offerings expand, the search criteria for this library will evolve. 
+The Rubin Observatory Scientific Publications Library includes refereed papers that directly references Rubin Observatory data products, select technical documentation,
+and non-refereed papers such as arxiv preprints and research notices. As Rubin’s data offerings expand, the search criteria for this library will evolve. 
 
 - Public library name: `Vera C. Rubin Observatory Scientific Publications <https://scixplorer.org/public-libraries/QQ9rNp-QSZqea5vG6zESUQ>`_
 - Search query for library: docs(library/QQ9rNp-QSZqea5vG6zESUQ)
 
-The Technical Publications Library focuses on Rubin’s internal and external technical outputs, such as software documentation, system design papers, and engineering reports.
+The Rubin Observatory Technical Publications Library focuses on Rubin’s internal and external technical outputs, such as software documentation, system design papers, and engineering reports.
 These materials are essential for understanding the infrastructure that supports Rubin’s scientific mission.
 
 - Public library name: `Vera C. Rubin Observatory Technical Publications <https://scixplorer.org/public-libraries/oue8xvvpTjqeYPvR5YW6VA>`_
@@ -50,7 +50,7 @@ To capture as many relevant papers as possible, the CST designs search queries b
 Each bibcode uniquely identifies a Rubin publication or dataset within SciX. Although search results may include a wide range of papers,
 only those that meet the defined inclusion criteria are added to the library.
 By reviewing bibcode-based search results on a regular basis, the CST ensures that the library remains accurate and up to date with the appropriate scientific literature.
-In addition to bibcode-based queries, the CST also conducts key word and time‑frame searches to ensure that any relevant papers are identified and added to the scientific library.
+In addition to bibcode-based queries, the CST also conducts keyword and timeframe searches to ensure that any relevant papers are identified and added to the scientific library.
 
 
 Perform search
@@ -64,7 +64,7 @@ SciX will then return a list of all papers citing the specified bibcode. These s
 Selecting the refereed option on the left side of the SciX interface will narrow the results.
 Personnel maintaining the library may use this feature or design a search that incorporates this limit.
 
-If a new query is needed, Appendix B provides instructions for constructing one.
+If a new query is needed, the `SciX help pages <https://scixplorer.org/scixhelp/>`_ and Appendix B provide instructions for constructing one.
 
 Review papers for inclusion
 ---------------------------
@@ -76,11 +76,10 @@ The CST staff conducts the initial review, but final decisions are made by Rubin
 A paper is eligible for inclusion if it meets the following conditions:
 
 - It presents a scientific analysis based on Rubin Observatory data services or data products, such as data releases (e.g., DP0, DP1, DP2, DR1).
-- The paper uses the data products to base some or all of its scientific conclusions.
+- It uses the data products to base some or all of its scientific conclusions.
 - It is published in a refereed journal.
-- It is Rubin Observatory technical documentation, arxiv preprints and research notices deemed appropriate for the library.
+- It is Rubin Observatory technical documentation, arxiv preprints, or research notices deemed appropriate for the library.
 - It is a non-refereed Rubin paper deemed appropriate for the library (e.g., SITCOMTN, RTN, or other paper describing the scientific contributions of Rubin).
-- It is a paper deemed appropriate for the library by the Publication Board.
 
 
 Exclusion criteria
@@ -89,11 +88,11 @@ Exclusion criteria
 We exclude the papers that have the following parameters:
 
 - It is not a scientific analysis based on Rubin data products.
-- Uses only mock catalogs, simulations, or LSST design parameters without incorporating Rubin data.
-- Mentions Rubin Observatory only in passing, such as in the background/introduction, acknowledgments, or future work sections.
-- Uses Rubin images solely for illustrative purposes without scientific analysis.
-- Is a proposal, abstract, erratum, or unpublished preprint.
-- Focuses on technical or software development (the paper is eligible for the technical publications list).
+- It uses only mock catalogs, simulations, or LSST design parameters without incorporating Rubin data.
+- It mentions Rubin Observatory only in passing, such as in the background/introduction, acknowledgments, or future work sections.
+- It uses Rubin images solely for illustrative purposes without scientific analysis.
+- It is a proposal, abstract, erratum, or unpublished preprint.
+- It focuses solely on technical or software development (the paper is eligible for the technical publications list).
 
 
 Adding a paper to the Vera C. Rubin Scientific Publications library
@@ -102,10 +101,10 @@ Adding a paper to the Vera C. Rubin Scientific Publications library
 The process for adding a paper to the Scientific Publications Library is as follows:
 
 1. Perform the relevant search from links provided in Appendix A.
-2. Review the papers and decide on papers to included in the library.
-3. Select paper(s) by checking the box next to the paper, then click ``Bulk Actions`` (Figure 1).
-4. From the ``Bulk Actions`` dropdown menu, select ``Add to Library`` (Figure 2).
-5. Click within the ``Select Library`` bar, then choose “Vera C. Rubin Observatory Scientific Publications” (Figure 3).
+2. Review the papers and decide on papers to include in the library.
+3. Select paper(s) by checking the box next to the paper (Figure 1).
+4. Click ``Bulk Actions`` and select ``Add to Library`` from the dropdown menu (Figure 2).
+5. Click within the ``Select Library`` bar and select “Vera C. Rubin Observatory Scientific Publications” (Figure 3).
 6. Click “Submit” to complete the process (Figure 4).
 
 
@@ -114,7 +113,7 @@ The process for adding a paper to the Scientific Publications Library is as foll
    :width: 500px
    :align: center
 
-   Select paper(s) from search results
+   Select paper(s) from search results by checking box next to paper entry.
 
 
 .. figure:: .github/_static/fig2_add_to_library.png
@@ -122,7 +121,7 @@ The process for adding a paper to the Scientific Publications Library is as foll
    :width: 500px
    :align: center
 
-   From Bulk Actions dropdown menu, select “Add to Library”
+   Click Bulk Actions and select “Add to Library” from downdown menu.
 
 
 .. figure:: .github/_static/fig3_select_library.png
@@ -130,7 +129,7 @@ The process for adding a paper to the Scientific Publications Library is as foll
    :width: 500px
    :align: center
 
-   Select “Vera C. Rubin Observatory Scientific Publications” library
+   Click within the Select Library bar and select “Vera C. Rubin Observatory Scientific Publications” library.
 
 
 .. figure:: .github/_static/fig4_click_submit.png
@@ -138,7 +137,7 @@ The process for adding a paper to the Scientific Publications Library is as foll
    :width: 500px
    :align: center
 
-   Click “Submit” to complete the process
+   Click “Submit” to complete the process.
 
 
 
@@ -150,11 +149,14 @@ The curated scientific library currently lists the total number of papers added 
 
 To compile the annual CST reporting metrics:
 
-- Click on the library link (above)
-- Click on “view results in search filter”
-- filter the SciX public library for the appropriate months (within the fiscal year: 10/1/XX - 9/30/XX)
-- Select for refereed papers by clicking on the refereed button on the left hand side
-- Note the number of search results and report into the appropriate annual report
+- Click on the relevant library link Vera C. Rubin Observatory Scientific Publications, Vera C. Rubin Technical Publications.
+- Click on ``View as search results``.
+- Filter the SciX public library for fiscal year(s) by clicking on ``All Search Terms`` above the search bar and selecting ``Date Published`` from the dropdown menu or typing in the field operator ``pubdate:`` as shown in the example below.  For fiscal years, input the dates in the following format: 2025-10 TO 2026-09 (October 1 through September 30).
+
+Example: docs(library/QQ9rNp-QSZqea5vG6zESUQ) AND pubdate:[2025-10 TO 2026-09]
+
+- Select for refereed papers by clicking on the Refereed button on the left side and selecting ``refereed`` then ``limit to``.
+- Note the number of search results and report into the appropriate annual report.
 
 Future enhancements to this process and CST annual report metrics may include categorization of publications by type and monitoring the pace of additions over time.
 
@@ -177,7 +179,7 @@ Each entry includes its SciX bibcode and a sample search query to help identify 
 
 Additional searches will be included in this list as new technical notes and datasets become available. 
 
-**NOTE - After performing the search, click the refereed checkbox on the left hand side to review refereed papers.
+**NOTE - After performing the search, click the refereed checkbox on the left side to review refereed papers only.
 While it is possible to construct the search which will return refereed papers, it was determined that the extra step of selecting only refereed papers provided more flexibility.**
 
 
@@ -203,7 +205,7 @@ While it is possible to construct the search which will return refereed papers, 
    * - `Rubin Observatory AND pubdate:["YYYY-MM-DD" TO "YYYY-MM-DD"] <https://scixplorer.org/search?d=general&n=10&p=1&q=Rubin+Observatory+AND+pubdate%3A%5B%222025-12-31%22+TO+%222026-01-31%22%5D&sort=date+desc>`_
      - Rubin Observatory and Month (note: alter dates as appropriate)
      - Phrase search and Month
-     - Rubin Observatory AND pubdate:["2025-12-31" TO "2026-01-31"]
+     - Rubin Observatory AND pubdate:["2025-12-31" TO "2026-01"]
 
    * - `Rubin Data Preview 1 AND year:2026 <https://scixplorer.org/search?d=general&n=10&p=1&q=Rubin+Data+Preview+1+AND+year%3A2026&sort=score+desc&sort=date+desc>`_
      - Rubin Data Preview 1
@@ -231,12 +233,12 @@ While it is possible to construct the search which will return refereed papers, 
 Appendix B Creating new queries
 ===============================
 
-As Rubin Observatory releases new data or technical notes, additional search criteria may be needed. Construct effective queries using SciX Help or the following basic guidelines:
+As Rubin Observatory releases new data or technical notes, additional search criteria may be needed. Construct effective queries using the SciX Help web pages or the following basic guidelines:
 
 - To find bibcodes:
 
-  - Review DOI for data releases.  Search for the data release DOI in SciX and the bibcode is listed underneath: for example, in the search box, use  **10.71929/rubin/2570308**
-  - Review DOI or bibcode for technical notes or publications. Search for and find bibcodes technical papers: for example, in the search box, use **(title:”RTN-095”)**
+  - Review DOI for data releases.  Search for the data release DOI in SciX and the bibcode is listed underneath: for example, in the search box, use  **10.71929/rubin/2570308**.
+  - Review DOI or bibcode for technical notes or publications. Search for and find bibcodes technical papers: for example, in the search box, use **(title:”RTN-095”)**.
 
 - To refine search for a specific time-frame:
 
