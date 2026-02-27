@@ -103,8 +103,8 @@ The process for adding a paper to the Scientific Publications Library is as foll
 1. Perform the relevant search from links provided in Appendix A.
 2. Review the papers and decide on papers to include in the library.
 3. Select paper(s) by checking the box next to the paper (Figure 1).
-4. Click ``Bulk Actions`` and select ``Add to Library`` from the dropdown menu (Figure 2).
-5. Click within the ``Select Library`` bar and select “Vera C. Rubin Observatory Scientific Publications” (Figure 3).
+4. Click "Bulk Actions" and select "Add to Library" from the dropdown menu (Figure 2).
+5. Click within the "Select Library" bar and select “Vera C. Rubin Observatory Scientific Publications” (Figure 3).
 6. Click “Submit” to complete the process (Figure 4).
 
 
@@ -150,12 +150,12 @@ The curated scientific library currently lists the total number of papers added 
 To compile the annual CST reporting metrics:
 
 - Click on the relevant library link Vera C. Rubin Observatory Scientific Publications, Vera C. Rubin Technical Publications.
-- Click on ``View as search results``.
-- Filter the SciX public library for fiscal year(s) by clicking on ``All Search Terms`` above the search bar and selecting ``Date Published`` from the dropdown menu or typing in the field operator ``pubdate:`` as shown in the example below.  For fiscal years, input the dates in the following format: 2025-10 TO 2026-09 (October 1 through September 30).
+- Click on "View as search results".
+- Filter the SciX public library for fiscal year(s) by clicking on "All Search Terms" above the search bar and selecting "Date Published" from the dropdown menu or typing in the field operator "pubdate:" as shown in the example below.  For fiscal years, input the dates in the following format: 2025-10 TO 2026-09 (October 1 through September 30).
 
 Example: docs(library/QQ9rNp-QSZqea5vG6zESUQ) AND pubdate:[2025-10 TO 2026-09]
 
-- Select for refereed papers by clicking on the Refereed button on the left side and selecting ``refereed`` then ``limit to``.
+- Select for refereed papers by clicking on the Refereed button on the left side and selecting "refereed" then "limit to".
 - Note the number of search results and report into the appropriate annual report.
 
 Future enhancements to this process and CST annual report metrics may include categorization of publications by type and monitoring the pace of additions over time.
