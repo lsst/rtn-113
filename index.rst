@@ -78,8 +78,8 @@ A paper is eligible for inclusion if it meets the following conditions:
 - It presents a scientific analysis based on Rubin Observatory data services or data products, such as data releases (e.g., DP0, DP1, DP2, DR1).
 - It uses the data products to base some or all of its scientific conclusions.
 - It is published in a refereed journal.
-- It is Rubin Observatory technical documentation, arxiv preprints, or research notices deemed appropriate for the library.
-- It is a non-refereed Rubin paper deemed appropriate for the library (e.g., SITCOMTN, RTN, or other paper describing the scientific contributions of Rubin).
+- It is Rubin Observatory technical documentation, arXiv preprints, or research notices deemed appropriate for the library.
+- It is a non-refereed Rubin paper deemed appropriate for the library (e.g., SITCOMTN-165, RTN-095, or other paper describing the scientific contributions of Rubin).
 
 
 Exclusion criteria
@@ -92,7 +92,7 @@ We exclude the papers that have the following parameters:
 - It mentions Rubin Observatory only in passing, such as in the background/introduction, acknowledgments, or future work sections.
 - It uses Rubin images solely for illustrative purposes without scientific analysis.
 - It is a proposal, abstract, erratum, or unpublished preprint.
-- It focuses solely on technical or software development (the paper is eligible for the technical publications list).
+- It focuses solely on technical or software development (the paper is eligible for the technical publications list if it is produced by Rubin Observatory).
 
 
 Adding a paper to the Vera C. Rubin Scientific Publications library
@@ -164,7 +164,8 @@ Future enhancements to this process and CST annual report metrics may include ca
 Technical library maintenance process
 =====================================
 
-TBD
+Technical publications are currently identified through Publication Board submissions and periodic manual searches of common venues such as SPIE and ADASS.
+This reflects existing practice and will be refined as additional automation or notification mechanisms become available.
 
 
 
@@ -242,12 +243,12 @@ As Rubin Observatory releases new data or technical notes, additional search cri
 
 - To refine search for a specific time-frame:
 
-  - For annual reviews: use **year:2025**
+  - For annual reviews: use **year:2026**
   - For rolling updates: use **year:2025 or year:2024**
-  - For more specific date criteria: use **date:[2024-01 to 2025-12]**
+  - For more specific date criteria: use **date:[2025-01 to 2025-12]**
 
 - To construct a search based on a bibcode: use **citations(bibcode: XXX)**
-- To use a bibcode with specific time-frame: use **citations(bibcode:XXX) AND year:2025**
+- To use a bibcode with specific time-frame: use **citations(bibcode:XXX) AND year:2026**
 - To search for multiple bibcodes: use **citations(bibcode:XXX OR bibcode:YYY)**
-- To search with keywords and a time-frame: use **(title:”XXX” OR abstract:”YYY”) AND year:2025**
+- To search with keywords and a time-frame: use **(title:”XXX” OR abstract:”YYY”) AND year:2026**
 
