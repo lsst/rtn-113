@@ -151,10 +151,7 @@ To compile the annual CST reporting metrics:
 
 - Click on the relevant library link Vera C. Rubin Observatory Scientific Publications, Vera C. Rubin Technical Publications.
 - Click on "View as search results".
-- Filter the SciX public library for fiscal year(s) by clicking on "All Search Terms" above the search bar and selecting "Date Published" from the dropdown menu or typing in the field operator "pubdate:" as shown in the example below.  For fiscal years, input the dates in the following format: 2025-10 TO 2026-09 (October 1 through September 30).
-
-Example: docs(library/QQ9rNp-QSZqea5vG6zESUQ) AND pubdate:[2025-10 TO 2026-09]
-
+- Filter the SciX public library for fiscal year(s) by clicking on "All Search Terms" above the search bar and selecting "Date Published" from the dropdown menu or typing in the field operator "pubdate:" as shown in the example below.  For fiscal years, input the dates in the following format: 2025-10 TO 2026-09 (October 1 through September 30). Example: docs(library/QQ9rNp-QSZqea5vG6zESUQ) AND pubdate:[2025-10 TO 2026-09]
 - Select for refereed papers by clicking on the Refereed button on the left side and selecting "refereed" then "limit to".
 - Note the number of search results and report into the appropriate annual report.
 
