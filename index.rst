@@ -20,7 +20,7 @@ This document outlines the process used for maintaining these libraries. It expl
 the search strategies employed to identify relevant publications, the workflow for reviewing and adding papers, and the criteria for inclusion or exclusion.
 It also describes how publication metrics are compiled and reported annually.
 
-**Note**: if anyone from the broader Rubin community notices their paper is missing and would like it added to the library,
+**Note**: If anyone from the broader Rubin community notices their paper is missing and would like it added to the library,
 they should post in the `Rubin Community Forum Support category <https://community.lsst.org/c/support/6>`_
 and request a review.
 
