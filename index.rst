@@ -1,6 +1,6 @@
-############################
-Rubin Curated SciX Libraries
-############################
+######################
+Curated SciX Libraries
+######################
 
 .. abstract::
 
@@ -19,6 +19,10 @@ These curated libraries are linked from the `Rubin Observatory For Scientists we
 This document outlines the process used for maintaining these libraries. It explains the structure and purpose of each library,
 the search strategies employed to identify relevant publications, the workflow for reviewing and adding papers, and the criteria for inclusion or exclusion.
 It also describes how publication metrics are compiled and reported annually.
+
+**Note**: if anyone from the broader Rubin community notices their paper is missing and would like it added to the library,
+they should post in the `Rubin Community Forum Support category <https://community.lsst.org/c/support/6>`_
+and request a review.
 
 
 ====================
@@ -71,15 +75,11 @@ Review papers for inclusion
 
 Once the search results are displayed, each paper must be reviewed to determine whether it meets the inclusion criteria.
 This involves examining the title, abstract, and sometimes the full text to assess whether Rubin Observatory data or services were substantively used.
-The CST staff conducts the initial review, but final decisions are made by Rubin Science leadership to ensure consistency and quality.
 
 A paper is eligible for inclusion if it meets the following conditions:
 
-- It presents a scientific analysis based on Rubin Observatory data services or data products, such as data releases (e.g., DP0, DP1, DP2, DR1).
-- It uses the data products to base some or all of its scientific conclusions.
-- It is published in a refereed journal.
-- It is Rubin Observatory technical documentation, arXiv preprints, or research notices deemed appropriate for the library.
-- It is a non-refereed Rubin paper deemed appropriate for the library (e.g., SITCOMTN-165, RTN-095, or other paper describing the scientific contributions of Rubin).
+- It presents a scientific analysis based, in whole or in part, on Rubin Observatory data services and data products, such as data releases (e.g., DP0, DP1, DP2, DR1, and so on).
+- It is a refereed journal article or a non-refereed publication deemed appropriate for the library (e.g., technical documentation, arXiv preprint, research notice.)
 
 
 Exclusion criteria
@@ -91,8 +91,8 @@ We exclude the papers that have the following parameters:
 - It uses only mock catalogs, simulations, or LSST design parameters without incorporating Rubin data.
 - It mentions Rubin Observatory only in passing, such as in the background/introduction, acknowledgments, or future work sections.
 - It uses Rubin images solely for illustrative purposes without scientific analysis.
-- It is a proposal, abstract, erratum, or unpublished preprint.
-- It focuses solely on technical or software development (the paper is eligible for the technical publications list if it is produced by Rubin Observatory).
+- It is a proposal, abstract, erratum, or arXiv preprint.
+- It focuses solely on technical or software development without application to any Rubin data products (the paper is eligible for the technical publications list if it is produced by Rubin Observatory).
 
 
 Adding a paper to the Vera C. Rubin Scientific Publications library
