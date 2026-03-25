@@ -10,7 +10,7 @@ organization.ror = "https://ror.org/048g3cy84"
 license.id = "CC-BY-4.0"
 
 [technote.status]
-state = "draft"
+state = "stable"
 
 [[technote.authors]]
 name.given = "Christina L."
@@ -21,3 +21,14 @@ orcid = "https://orcid.org/0009-0008-8623-871X"
 name = "SLAC National Accelerator Laboratory"
 internal_id = "SLAC"
 address = "Menlo Park"
+
+[[technote.authors]]
+name.given = "Sharon E."
+name.family = "Hunt"
+internal_id = "huntsh"
+orcid = "https://orcid.org/0000-0002-5858-2002"
+[[technote.authors.affiliations]]
+name = "NSF NOIRLab"
+internal_id = "NOIRLab"
+address = "Tucson"
+
