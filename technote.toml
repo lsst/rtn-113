@@ -25,7 +25,7 @@ address = "Menlo Park"
 [[technote.authors]]
 name.given = "Sharon E."
 name.family = "Hunt"
-internal_id = "huntsh"
+internal_id = "huntse"
 orcid = "https://orcid.org/0000-0002-5858-2002"
 [[technote.authors.affiliations]]
 name = "NSF NOIRLab"
