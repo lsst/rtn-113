@@ -64,7 +64,7 @@ SciX allows searches in specific fields, including keywords, bibcodes, titles, a
 
 Appendix A provides pre‑built links focused on Rubin’s data release technical documentation, data products, and time‑constrained keywords.
 Users may either click the links directly or enter the corresponding criteria from the table into the SciX search bar.
-SciX will then return all papers citing the specified bibcode, and the searches are configured to include both refereed and non‑refereed papers to maximize visibility.
+SciX will then return all papers citing the specified bibcode or keyword, and the searches are configured to include both refereed and non‑refereed papers to maximize visibility.
 For many searches, retaining non-refereed results (e.g., arXiv preprints) is helpful
 for identifying papers to include. For large queries, such as the Rubin Observatory keyword search provided in Appendix A,
 limiting results to refereed papers, by selecting the refereed option on the left-hand-side, can assist the reviewer by narrowing the results.
