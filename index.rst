@@ -63,10 +63,11 @@ Perform search
 SciX allows searches in specific fields, including keywords, bibcodes, titles, and Digital Object Identifiers (DOIs).
 
 Appendix A provides pre‑built links focused on Rubin’s data release technical documentation, data products, and time‑constrained keywords, which are sufficient for initial searches.
-To perform a search, users can click the links in Appendix A or enter the criteria from the table into the SciX search bar.
-SciX will then return a list of all papers citing the specified bibcode. These searches are configured to include both refereed and non‑refereed papers to maximize visibility.
-Selecting the refereed option on the left side of the SciX interface will narrow the results.
-Personnel maintaining the library may use this feature or design a search that incorporates this limit.
+Users may either click the links directly or enter the corresponding criteria from the table into the SciX search bar.
+SciX will then return all papers citing the specified bibcode, and the searches are configured to include both refereed and non‑refereed papers to maximize visibility.
+Selecting the refereed option on the left side of the SciX interface will narrow the results. For many searches, retaining non-refereed results (e.g., arXiv preprints) is helpful
+for identifying papers to include, but for large queries, such as the Rubin Observatory keyword search provided in Appendix A, limiting results to refereed papers can
+assist the reviewer. Personnel maintaining the library may choose to use this filter or design searches that incorporate this limit.
 
 If a new query is needed, the `SciX help pages <https://scixplorer.org/scixhelp/>`_ and Appendix B provide instructions for constructing one.
 
@@ -91,7 +92,7 @@ We exclude the papers that have the following parameters:
 - It uses only mock catalogs, simulations, or LSST design parameters without incorporating Rubin data.
 - It mentions Rubin Observatory only in passing, such as in the background/introduction, acknowledgments, or future work sections.
 - It uses Rubin images solely for illustrative purposes without scientific analysis.
-- It is a proposal, abstract, erratum, or arXiv preprint.
+- It is a proposal, abstract, or erratum.
 - It focuses solely on technical or software development without application to any Rubin data products (the paper is eligible for the technical publications list if it is produced by Rubin Observatory).
 
 
