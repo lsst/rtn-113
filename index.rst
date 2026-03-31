@@ -177,10 +177,7 @@ that are commonly cited in scientific literature.
 Each entry includes its SciX bibcode and a sample search query to help identify relevant publications for inclusion in the Rubin Scientific Publications Library.
 
 
-Additional searches will be included in this list as new technical notes and datasets become available. 
-
-**NOTE - After performing the search, click the refereed checkbox on the left side to review refereed papers only.
-While it is possible to construct the search which will return refereed papers, it was determined that the extra step of selecting only refereed papers provided more flexibility.**
+Additional searches will be included in this list as new technical notes and datasets become available.
 
 
 .. list-table:: SciX search queries
