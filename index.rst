@@ -63,12 +63,12 @@ Perform search
 SciX allows searches in specific fields, including keywords, bibcodes, titles, and Digital Object Identifiers (DOIs).
 
 Appendix A provides pre‑built links focused on Rubin’s data release technical documentation, data products, and time‑constrained keywords.
-Users may either click the links directly or enter the corresponding criteria from the table into the SciX search bar.
-SciX will then return all papers citing the specified bibcode or keyword, and the searches are configured to include both refereed and non‑refereed papers to maximize visibility.
-For many searches, retaining non-refereed results (e.g., arXiv preprints) is helpful
-for identifying papers to include. For large queries, such as the Rubin Observatory keyword search provided in Appendix A,
-limiting results to refereed papers, by selecting the refereed option on the left-hand-side, can assist the reviewer by narrowing the results.
-Personnel maintaining the library may choose to use this filter or design searches that incorporate this limit.
+Users may either click the links directly or enter the corresponding criteria from the table into the SciX search bar to retrieve papers citing the specified bibcode or keyword.
+In many cases, including non-refereed results (e.g., arXiv preprints) is useful for identifying recent or in-progress work.
+For broad or high-volume queries, such as the Rubin Observatory keyword search,
+restricting results to refereed papers and applying a defined publication time-frame filters out records outside the intended scope,
+limits the number of returned records, and improves the efficiency of the review process.
+Appendix A searches are structured to reflect this distinction.
 
 If a new query is needed, the `SciX help pages <https://scixplorer.org/scixhelp/>`_ and Appendix B provide instructions for constructing one.
 
@@ -202,10 +202,10 @@ While it is possible to construct the search which will return refereed papers, 
      - Dataset
      - citations(bibcode:2025lsst.data....3N)
 
-   * - `Rubin Observatory AND pubdate:["YYYY-MM-DD" TO "YYYY-MM-DD"] <https://scixplorer.org/search?d=general&n=10&p=1&q=Rubin+Observatory+AND+pubdate%3A%5B%222025-12-31%22+TO+%222026-01-31%22%5D&sort=date+desc>`_
+   * - `Rubin Observatory AND pubdate:["2025-12-31" TO "2026-01-31"] AND property:refereed <https://scixplorer.org/search?d=general&n=10&p=1&q=Rubin+Observatory+AND+pubdate%3A%5B%222025-12-31%22+TO+%222026-01-31%22%5D+AND+property%3Arefereed&sort=date+desc>`_
      - Rubin Observatory and Month (note: alter dates as appropriate)
      - Phrase search and Month
-     - Rubin Observatory AND pubdate:["2025-12-31" TO "2026-01"]
+     - Rubin Observatory AND pubdate:["2025-12-31" TO "2026-01"] AND propertry:refereed
 
    * - `Rubin Data Preview 1 AND year:2026 <https://scixplorer.org/search?d=general&n=10&p=1&q=Rubin+Data+Preview+1+AND+year%3A2026&sort=score+desc&sort=date+desc>`_
      - Rubin Data Preview 1
