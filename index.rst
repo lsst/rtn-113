@@ -203,7 +203,7 @@ While it is possible to construct the search which will return refereed papers, 
      - citations(bibcode:2025lsst.data....3N)
 
    * - `Rubin Observatory AND pubdate:["2026-01-31" TO "2026-02-28"] AND property:refereed <https://scixplorer.org/search?d=general&n=10&p=1&q=Rubin+Observatory+AND+pubdate%3A%5B%222026-01-31%22+TO+%222026-02-28%22%5D+AND+property%3Arefereed&sort=date+desc>`_
-     - Rubin Observatory and Month **(Note: alter dates as appropriate)**
+     - Rubin Observatory and month **(Note: alter dates as appropriate)**
      - Phrase and month search
      - Rubin Observatory AND pubdate:["2026-01-31" TO "2026-02-28"] AND property:refereed
 
