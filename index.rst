@@ -224,10 +224,10 @@ Additional searches will be included in this list as new technical notes and dat
      - Phrase and year search
      - LSST Data Preview 0 AND year:2026
 
-   * - `citations("doi:10.71929/rubin/3020139") OR ("Rubin Prompt Products" OR "Rubin alerts") <https://scixplorer.org/search?d=general&p=1&q=citations(%22doi%3A10.71929%2Frubin%2F3020139%22)+OR+(%22Rubin+Prompt+Products%22+OR+%22Rubin+alerts%22)&sort=score+desc&sort=date+desc>`_
+   * - `citations("doi:10.71929/rubin/3020139") OR ("Rubin Observatory" OR "LSST") AND ("prompt" or "alert" or "alerts") <https://scixplorer.org/search?d=general&p=1&q=citations(%22doi%3A10.71929%2Frubin%2F3020139%22)+OR+(%22Rubin+Observatory%22+OR+%22LSST%22)+AND+(%22prompt%22+or+%22alert%22+or+%22alerts%22)&sort=date+asc&sort=date+desc>`_
      - Rubin Prompt Products DOI and keywords
      - DOI and keyword search
-     - citations("doi:10.71929/rubin/3020139") OR ("Rubin Prompt Products" OR "Rubin alerts")
+     - citations("doi:10.71929/rubin/3020139") OR ("Rubin Observatory" OR "LSST") AND ("prompt" or "alert" or "alerts")
 
 
 
