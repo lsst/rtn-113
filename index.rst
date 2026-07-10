@@ -142,6 +142,17 @@ The process for adding a paper to the Scientific Publications Library is as foll
    Click “Submit” to complete the process.
 
 
+Removing a paper to the Vera C. Rubin Scientific Publications library
+-------------------------------------------------------------------
+
+
+- Click on user name
+- Select SciX library
+- Click on Vera C. Rubin Scientific Publications library
+- Click check box of the paper to be deleted
+- Click delete
+
+
 
 Reporting
 ---------
