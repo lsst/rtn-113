@@ -143,7 +143,7 @@ The process for adding a paper to the Scientific Publications Library is as foll
 
 
 Removing a paper to the Vera C. Rubin Scientific Publications library
--------------------------------------------------------------------
+---------------------------------------------------------------------
 
 
 - Click on user name
