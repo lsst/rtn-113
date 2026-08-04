@@ -215,6 +215,16 @@ Additional searches will be included in this list as new technical notes and dat
      - Phrase and month search
      - Rubin Observatory AND pubdate:["2026-01-31" TO "2026-02-28"] AND property:refereed
 
+   * - `Rubin Data Preview 2 AND year:2026 <https://scixplorer.org/search?d=general&n=10&p=1&q=Rubin+Data+Preview+2+AND+year%3A2026&sort=score+desc&sort=date+desc>`_
+     - Rubin Data Preview 2
+     - Phrase and year search
+     - Rubin Data Preview 2 AND year:2026
+
+   * - `LSST Data Preview 2 AND year:2026 <https://scixplorer.org/search?d=general&n=10&p=1&q=LSST+Data+Preview+2+AND+year%3A2026&sort=score+desc&sort=date+desc>`_
+     - LSST Data Preview 2
+     - Phrase and year search
+     - LSST Data Preview 2 AND year:2026
+
    * - `Rubin Data Preview 1 AND year:2026 <https://scixplorer.org/search?d=general&n=10&p=1&q=Rubin+Data+Preview+1+AND+year%3A2026&sort=score+desc&sort=date+desc>`_
      - Rubin Data Preview 1
      - Phrase and year search
@@ -240,7 +250,10 @@ Additional searches will be included in this list as new technical notes and dat
      - DOI, keyword search, and year
      - citations("doi:10.71929/rubin/3020139") OR ("Rubin Observatory" OR "LSST") AND ("prompt" or "alert" or "alerts") and year:2026
 
-
+   * - `citations("doi:10.71929/rubin/337740") OR ("Rubin Observatory" OR "LSST") <https://scixplorer.org/search?d=general&fq=%7B%21type%3Daqp+v%3D%24fq_property%7D&fq_property=(property%3A%22refereed%22)&p=1&q=citations(%22doi%3A10.71929%2Frubin%2F337740%22)+OR+(%22Rubin+Observatory%22+OR+%22LSST%22)>`_
+     - Rubin DP2 DOI
+     - DOI, keyword search, and year
+     - citations("doi:10.71929/rubin/3377440") OR ("Rubin Observatory" OR "LSST") and year:2026
 
 ===============================
 Appendix B Creating new queries
