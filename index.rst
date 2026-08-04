@@ -250,9 +250,9 @@ Additional searches will be included in this list as new technical notes and dat
      - DOI, keyword search, and year
      - citations("doi:10.71929/rubin/3020139") OR ("Rubin Observatory" OR "LSST") AND ("prompt" or "alert" or "alerts") and year:2026
 
-   * - `citations("doi:10.71929/rubin/337740") OR ("Rubin Observatory" OR "LSST") <https://scixplorer.org/search?d=general&fq=%7B%21type%3Daqp+v%3D%24fq_property%7D&fq_property=(property%3A%22refereed%22)&p=1&q=citations(%22doi%3A10.71929%2Frubin%2F337740%22)>`_
+   * - `citations("doi:10.71929/rubin/337740") <https://scixplorer.org/search?d=general&fq=%7B%21type%3Daqp+v%3D%24fq_property%7D&fq_property=(property%3A%22refereed%22)&p=1&q=citations(%22doi%3A10.71929%2Frubin%2F337740%22)>`_
      - Rubin DP2 DOI
-     - DOI, keyword search, and year
+     - DOI
      - citations("doi:10.71929/rubin/3377440")
 
 
