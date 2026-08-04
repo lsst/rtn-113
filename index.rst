@@ -255,6 +255,7 @@ Additional searches will be included in this list as new technical notes and dat
      - DOI, keyword search, and year
      - citations("doi:10.71929/rubin/3377440") OR ("Rubin Observatory" OR "LSST") and year:2026
 
+
 ===============================
 Appendix B Creating new queries
 ===============================
